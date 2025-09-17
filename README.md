@@ -15,4 +15,4 @@
 
 *[RIT <Home Page>](https://www.rit.edu/)*
 
-!(/images/news/2024-09/RIT-Big-Shot-36-SHEDcopy.jpg)
+!(https://cdn.rit.edu/images/news/2024-09/RIT-Big-Shot-36-SHEDcopy.jpg)
