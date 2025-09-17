@@ -4,11 +4,11 @@
 
 ## **Table of Contents** 
 
-1. RPG(my-listicle.md#rpg)
-2. Strategy
-3. Puzzle
-4. MMORPG
-5. FPS
+1. ![RPG](/my-listicle.md#rpg)
+2. ![Strategy](/my-listicle.md#strategy)
+3. ![Puzzle](/my-listicle.md#puzzle)
+4. ![MMORPG](/my-listicle.md#mmorpg)
+5. ![FPS](/my-listicle.md#fps)
 
    ---
 
@@ -24,34 +24,34 @@
 
  ## **Strategy**
 
- 1.Crusader Kings 3
- 2.StarCraft
- 3.Agw of Empires 4
- 4.Civilization 5
- 5.Stellaris
+ 1. Crusader Kings 3
+ 2. StarCraft
+ 3. Age of Empires 4
+ 4. Civilization 5
+ 5. Stellaris
 
  ---
 
  ## **Puzzle**
 
- 1.Tetris
- 2.Portal
- 3.Sudoku
- 4.Mahjong
- 5.Bubble Shooter
+ 1. Tetris
+ 2. Portal
+ 3. Sudoku
+ 4. Mahjong
+ 5. Bubble Shooter
 
  ## **MMORPG**
- 1.RuneScape
- 2.World of WarCraft
- 3.Lost Ark
- 4.New World
- 5.Throne and Liberty
+ 1. RuneScape
+ 2. World of WarCraft
+ 3. Lost Ark
+ 4. New World
+ 5. Throne and Liberty
 
  ---
 
  ## **FPS**
- 1.Titanfall 2
- 2.Destiny 2
- 3.Team Fortress 2
- 4.Valorant
- 5.Metro Exodus
+ 1. Titanfall 2
+ 2. Destiny 2
+ 3. Team Fortress 2
+ 4. Valorant
+ 5. Metro Exodus
