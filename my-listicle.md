@@ -4,7 +4,7 @@
 
 ## **Table of Contents** 
 
-1. RPG
+1. RPG(my-listicle.md#rpg)
 2. Strategy
 3. Puzzle
 4. MMORPG
@@ -14,44 +14,44 @@
 
  ## **RPG**
 
- Baldurs Gate 3
- Elden Ring
- Dragon Age origins
- Mass Effect Trilogy
- NieR: Automata
+ 1. Baldurs Gate 3
+ 2. Elden Ring
+ 3. Dragon Age origins
+ 4. Mass Effect Trilogy
+ 5. NieR: Automata
 
  ---
 
  ## **Strategy**
 
- Crusader Kings 3
- StarCraft
- Agw of Empires 4
- Civilization 5
- Stellaris
+ 1.Crusader Kings 3
+ 2.StarCraft
+ 3.Agw of Empires 4
+ 4.Civilization 5
+ 5.Stellaris
 
  ---
 
  ## **Puzzle**
 
- Tetris
- Portal
- Sudoku
- Mahjong
- Bubble Shooter
+ 1.Tetris
+ 2.Portal
+ 3.Sudoku
+ 4.Mahjong
+ 5.Bubble Shooter
 
  ## **MMORPG**
- RuneScape
- World of WarCraft
- Lost Ark
- New World
- Throne and Liberty
+ 1.RuneScape
+ 2.World of WarCraft
+ 3.Lost Ark
+ 4.New World
+ 5.Throne and Liberty
 
  ---
 
  ## **FPS**
- Titanfall 2
- Destiny 2
- Team Fortress 2
- Valorant
- Metro Exodus
+ 1.Titanfall 2
+ 2.Destiny 2
+ 3.Team Fortress 2
+ 4.Valorant
+ 5.Metro Exodus
